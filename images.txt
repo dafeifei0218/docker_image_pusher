@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 exceptionless/exceptionless:8.0.0-elasticsearch7
-
+nginx:1.26.0
