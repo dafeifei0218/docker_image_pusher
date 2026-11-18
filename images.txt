@@ -11,3 +11,6 @@ nginx:latest
 nginx:1.26.0
 
 mysql:8.3.0
+mysql:5.7
+
+
